@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> عيونك بتنادي في عز الليل
+> ونار الشوق في قلبي دليل
+> يا حبيبي تعالى نسهر سوا
+> نعيش في الغرام وننسى الويل
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)

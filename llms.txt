@@ -13,6 +13,7 @@
 | Lyric Writing Date | May 02, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/fora2-beyet2al/) |
 | License | [View License](./LICENSE.md) |
+| Get License | [Get Permission to Use Fora2 Beyet2al](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
